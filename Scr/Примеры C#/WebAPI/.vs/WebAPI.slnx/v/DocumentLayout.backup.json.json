@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|WebAPI.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|WebAPI.csproj|solutionrelative:webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|WebAPI.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|WebAPI.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|c:\\users\\novos\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 api\\web-api\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938079EF-E476-4FC0-BADF-3CF48835DE3B}|Web-API.csproj|solutionrelative:models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI.http",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\WebAPI.http",
+              "RelativeToolTip": "WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-18T03:29:43.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAYW73cmcTwB4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:16:03.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T02:13:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:08:13.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "Models\\Image.cs",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Models\\Image.cs",
+              "RelativeToolTip": "Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:01:41.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T01:56:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\novos\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041A\u043E\u0434 \u0434\u043B\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\\u0432\u0435\u0431 API\\Web-API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:47:06.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
